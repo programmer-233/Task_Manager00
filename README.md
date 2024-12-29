@@ -1,2 +1,3 @@
-# Task_Manager00
-A simple To-Do in HTML &amp; CSS
+# Task Manager 00
+A simple To-Do in HTML & CSS
+Beginner Level
