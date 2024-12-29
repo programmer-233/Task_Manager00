@@ -1,0 +1,28 @@
+body {
+            font-family: Arial, sans-serif;
+        }
+        
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        
+        li {
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+        }
+        
+        input[type="checkbox"] {
+            margin-right: 10px;
+        }
+        
+        label {
+            flex-grow: 1;
+            cursor: pointer;
+        }
+        
+        input[type="checkbox"]:checked + label {
+            text-decoration: line-through;
+            color: #888;
+        }
